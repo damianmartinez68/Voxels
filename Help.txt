@@ -1,0 +1,23 @@
+
+
+
+
+    Usa las siguientes teclas para jugar:
+
+
+	Flecha arriba: Mover hacia adentro.
+
+	Flecha abajo: Mover hacia afuera.
+
+	Flecha derecha: Mover hacia la derecha.
+
+	Flecha izquierda: Mover hacia la izquierda.
+
+	Espacio: Disparar.
+
+	Objetivo: Con la tecla Espacio se hará el disparo
+	del cubo para eliminar los Voxels de la parte
+        superior. Trata de destruirlos a todos.
+
+
+		Presiona ESC para regresar al menú principal
